@@ -1,0 +1,52 @@
+body{
+    background: black;
+    width: 100%;
+    height: auto;
+}
+
+
+
+.postalentera{
+    font-family: 'Handlee', cursive;
+    /* font-family: 'Roboto', sans-serif; */
+    background-color: white;
+    margin: auto;
+    width: 400px;
+    height: 300px;
+
+}
+.cabezal{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+img{
+    width: 20%;
+    margin-left: 150px;
+}
+
+p{
+    font-size: 12px ;
+    margin-left: 10px;
+    margin-right: 20px;
+
+}
+.parrInput{
+    display: flex;
+    font-size: 14px;
+}
+
+.derecha{
+    border:0px;
+
+}
+
+.pie{
+    text-align: center;
+}
+button{
+    font-family: "Handlee", cursive;
+    border: 0px;
+    margin-top: 10px;
+}
